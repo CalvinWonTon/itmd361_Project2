@@ -146,12 +146,14 @@ a{
     width: 55%;
     display: block;
     margin:0 auto;
+    border-radius: 5%;
 }
 
 .anime-container iframe{
     width: 65%;
     display: block;
     margin:0 auto;
+    border-radius: 5%;
 }
 
 .anime-container h3{

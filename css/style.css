@@ -19,6 +19,7 @@
     position: relative;
 }
 
+/* index.html */
 #main-navbar ul {
     list-style-type: none;
     margin: 0;
@@ -69,7 +70,7 @@
     width: 960px;
     margin: 0 auto;
     overflow: hidden;
-    background-color: darkgray;
+    background-color: lightgray;
 }
 
 .container ul{
@@ -109,6 +110,29 @@ body{
     margin-right: 5px;
 }
 
+a{
+    color: darkorange;
+}
+
+
+/* hobbies.html */
+.polaroid {
+    width: 80%;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    background-color: lightblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.contain{
+    width: 960px;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: lightgray;
+    text-align: center;
+}
 
 #footer-container{
     height: 80px;

@@ -160,6 +160,18 @@ a{
     text-align: center;
 }
 
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+    height: 50px;
+}
 
 
 #footer-container{

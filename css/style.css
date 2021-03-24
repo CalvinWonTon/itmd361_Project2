@@ -142,21 +142,14 @@ a{
     padding:2%;
 }
 
-.anime-container img{
-    width: 55%;
-    display: block;
-    margin:0 auto;
-    border-radius: 5%;
-}
-
-.anime-container iframe{
+.anime-container img, iframe{
     width: 65%;
     display: block;
     margin:0 auto;
     border-radius: 5%;
 }
 
-.anime-container h3{
+.anime-container h3, .anime-container h1{
     text-align: center;
 }
 
@@ -165,6 +158,8 @@ table{
     border-collapse: collapse;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
+    table-layout: fixed;
 }
 
 td{

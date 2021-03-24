@@ -142,7 +142,7 @@ a{
     padding:2%;
 }
 
-.anime-container img, iframe{
+.anime-container img, .anime-container iframe{
     width: 65%;
     display: block;
     margin:0 auto;

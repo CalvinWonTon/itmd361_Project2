@@ -139,12 +139,17 @@ a{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.polaroid img, .polaroid iframe{
+    border-radius: 5%;
+}
+
 /* anime.html */
 .anime-container{
     width: 50%;
     margin-left: 25%;
     background-color: lightgray;
     padding:2%;
+    text-align: center;
 }
 
 .anime-container img, .anime-container iframe{
